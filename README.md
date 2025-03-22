@@ -20,8 +20,8 @@ As part of the [Boot.dev](https://boot.dev) syllabus, it is suggested, at the en
 
 To create this project, I will use:
 
-- **Helix Editor**: I like this editor because it's _blazingly fast_, comes with sane defaults, and has all the tools I usually install and configure in neovim, but without the hastle of having to configure each feature at the risk of them not cooperating with eachother or breaking after updates. Hot take: I also does not support AI, which I find to be detrimental to learning. The temptation to use it, therefore, cannot be satiated.
-- **Python**: Python is the languge used in the course leading up to this point, so it makes sense to write the project using this language.
+- **Helix Editor**: I like this editor because it's _blazingly fast_, comes with sane defaults, and has all the tools I usually install and configure in neovim, but without the hastle of having to configure each feature at the risk of them not cooperating with eachother or breaking after updates. Hot take: It also does not support AI, which I find to be detrimental to learning. The temptation to use it, therefore, cannot be satiated.
+- **Python**: Python is the language used in the course leading up to this point, so it makes sense to write the project using it.
 - **Open F1 API**: This is a free and open-source API that provides all the information I am looking for. [Check it out](https://openf1.org)
 
 ### Future
